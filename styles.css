@@ -38,3 +38,15 @@ body
     display: flex;
     align-items: center;
 }
+
+.toast .content .icon
+{
+    font-size: 25px;
+    background: #2ECC71;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    color: #FFF;
+}
