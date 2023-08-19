@@ -52,7 +52,7 @@ body
     color: #FFF;
 }
 
-.toast .content
+.toast .content .details
 {
-
+    margin-left: 15px;
 }
