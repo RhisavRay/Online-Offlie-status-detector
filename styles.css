@@ -32,3 +32,9 @@ body
     justify-content: space-between;
     box-shadow: 1px 7px 14px -5px rgba(0, 0, 0, 0.15);
 }
+
+.toast .content
+{
+    display: flex;
+    align-items: center;
+}
